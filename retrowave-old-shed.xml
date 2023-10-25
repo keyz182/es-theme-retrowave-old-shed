@@ -1,7 +1,7 @@
 <!--
-theme name:		Retrowave (16:9)
+theme name:		Retrowave (Old Shed) (16:10)
 version:		1.0
-author:			Nick Earl
+author:			Nick Earl (Modified by Kieran Evans)
 email:			
 website:		nickearl.net
 license:		creative commons CC-BY-NC-SA
@@ -15,7 +15,7 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 	<view name="system, basic, detailed, video">
 
 		<image name="background" extra="true">
-			<path>./_art/images/retrowave_bg.png</path>
+			<path>./_art/images/splash.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
