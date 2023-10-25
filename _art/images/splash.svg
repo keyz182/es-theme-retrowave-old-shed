@@ -194,8 +194,8 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="0.73064884"
-   inkscape:cx="143.02356"
-   inkscape:cy="294.259"
+   inkscape:cx="466.02414"
+   inkscape:cy="428.38636"
    inkscape:window-width="2560"
    inkscape:window-height="1369"
    inkscape:window-x="2552"
@@ -450,7 +450,7 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:'Outrun future';-inkscape-font-specification:'Outrun future, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect1701);display:inline;fill:#000000;stroke-width:11.339" /></g>
 <g
    id="layer5"
-   transform="matrix(0.37233942,0,0,0.37233942,-161.99773,4.5802417)"
+   transform="matrix(0.37233942,0,0,0.37233942,118.85366,-164.27102)"
    inkscape:groupmode="layer"
    inkscape:label="Logo">
 	
@@ -647,11 +647,15 @@
    id="text97"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:'Outrun future';-inkscape-font-specification:'Outrun future, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline">Shed</text>
 	</g>
-	<g
-   id="g175-0"
-   transform="translate(-7.7289849,95.823349)"
-   inkscape:label="TextShadow"
-   style="fill:#000000;filter:url(#filter1261)">
+	
+</g><g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Text"><g
+     id="g175-0"
+     transform="matrix(0.37233942,0,0,0.37233942,-214.14681,-274.98189)"
+     inkscape:label="TextShadow"
+     style="fill:#000000;filter:url(#filter1261)">
 		<g
    id="g143-5"
    style="fill:#000000">
@@ -871,9 +875,9 @@
    id="path171-4" />
 		</g>
 	</g><g
-   id="g175"
-   transform="translate(-11.728985,91.823349)"
-   inkscape:label="Text">
+     id="g175"
+     transform="matrix(0.37233942,0,0,0.37233942,-215.63617,-276.47125)"
+     inkscape:label="Text">
 		<g
    id="g143">
 			
@@ -1090,7 +1094,6 @@
    d="m 917,920.1 h 1.2 0.1 0.1 3.6 v 2.6 c -0.1,-1.4 0.3,-1.4 1.4,-0.1 v 0.8 c 0,-0.1 -0.8,-0.1 -2.2,-0.1 v 0 c 1.2,0 2.2,0.3 2.8,1 0,0.4 -1,0.5 -3.1,0.5 1.2,1.2 2,1.9 2.3,1.9 0.7,0 1,0.3 1,0.8 -1.8,0 -2.7,-1.2 -2.7,-3.5 1.8,0 2.7,0 2.7,0 2.2,-0.1 3.8,-0.2 4.8,-0.2 5.5,0.6 10.4,1 14.8,1.2 0.5,-0.1 1.9,-0.2 4.3,-0.4 v 2.2 l 7.9,-2.2 h -7.1 c 1.6,0 2.5,0.7 2.5,2.2 -2.9,0 -4.4,-0.7 -4.4,-2.2 2.6,0 5.3,0.3 8.2,0.8 l 4.6,-2.1 v 0.4 l -3.4,3.8 c -0.2,-1.4 1,-2.6 3.8,-3.8 v 3.5 l 0.2,-0.5 c 0.3,0.1 0.4,0.6 0.4,1.6 v 2 h -3.3 v -3.6 h 3.3 v 2 c 0,1 -1.8,2 -5.5,3 V 928 c 2.2,0.6 3.3,2 3.3,4.2 h -3.3 v -3.6 l 3.7,0.4 v 1.8 c 0,1.4 -1.6,2.2 -4.9,2.2 v -3.5 h 3.3 v 3.9 c -1.9,0 -3.6,1.1 -5.2,3.2 -4,9.1 -8.8,15.9 -14.3,20.5 -7.3,5.8 -14,11.1 -20.1,16 -5.8,2.1 -8.8,3.6 -8.8,4.3 -0.8,1.6 -1.9,2.8 -3.2,3.8 h -4 l 3.3,-11.1 v 8.1 h 2 c -0.5,1.9 -1.5,2.9 -3,2.9 h -2.2 l -0.5,-3 h 20 c -11.9,1.4 -19.3,3.5 -22.2,6.2 h -3.5 v 4.4 l 2.9,-7.2 c 0.8,0 1.1,0.5 1.1,1.6 v 1.1 h -4.8 v -2.5 c 0,-0.6 0.2,-1.5 0.6,-2.8 0,0.3 -0.2,0.5 -0.8,0.5 2,-11.4 4.2,-20.5 6.8,-27.2 4.1,-9.8 6.1,-14.9 6.2,-15.3 0.1,0 0.2,-0.7 0.2,-2.1 v -0.2 c 0,0.1 1,0.1 3,0.1 l -3.2,-4 c 0,1.4 0.8,1.3 2.3,-0.3 2,-6.6 4.3,-10 6.9,-10 0,0 -0.4,0 -1.2,0 0,0.1 0.4,0 1.3,-0.3 z m 16.4,16.6 c 0,0 0,-0.7 0,-2.2 l -17.7,2.2 c 10.4,0 12.8,0 7.2,0.1 0.5,0 0.7,-0.2 0.7,-0.7 -3.1,7.3 -5.2,13.3 -6.4,17.9 6.7,-3.2 14.2,-11.1 22.6,-23.8 v 6 z"
    id="path171" />
 		</g>
-	</g>
-</g>
+	</g></g>
 
 </svg>
