@@ -49,7 +49,6 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 			</image>
 
 			<carousel name="systemcarousel">
-         		<scrollSound>./_art/audio/interface-soft-click.wav</scrollSound>
 				<type>horizontal</type>
 				<pos>0.010 0.3</pos>
 				<size>0.980 0.200</size>
