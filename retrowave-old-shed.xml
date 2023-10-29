@@ -10,7 +10,8 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 
 <theme>
 
-	<formatVersion>4</formatVersion>
+	<formatVersion>7</formatVersion>
+	<resolution>1280 800</resolution>
 
 	<view name="system, basic, detailed, video">
 
@@ -32,8 +33,8 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 		<helpsystem name="help">
 			<textColor>e0009e</textColor>
 			<iconColor>00d8e0</iconColor>
-			<fontPath>./_art/fonts/Streamster.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontPath>./_art/fonts/OutrunFuture.otf</fontPath>
+			<fontSize>0.02</fontSize>
 		</helpsystem>
 
 	</view>
@@ -41,7 +42,6 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 	<feature supported="carousel">
 
 		<view name="system">
-
 			<!-- Custom Vertical System View -->
 			<image name="console" extra="true">
 				<maxSize>0.500 0.700</maxSize>
@@ -49,8 +49,9 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 			</image>
 
 			<carousel name="systemcarousel">
+         		<scrollSound>./_art/audio/interface-soft-click.wav</scrollSound>
 				<type>horizontal</type>
-				<pos>0.010 0.25</pos>
+				<pos>0.010 0.3</pos>
 				<size>0.980 0.200</size>
 				<color>00d8e000</color>
 				<logoScale>1.8</logoScale>
@@ -59,11 +60,11 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 			</carousel>
 
 			<text name="systemInfo">
-				<pos>0.010 0.410</pos>
+				<pos>0.010 0.48</pos>
 				<size>0.980 0.050</size>
 				<backgroundColor>FFFFFF00</backgroundColor>
 				<color>FFFFFF</color>
-				<fontPath>./_art/fonts/Streamster.ttf</fontPath>
+				<fontPath>./_art/fonts/OutrunFuture.otf</fontPath>
 				<fontSize>0.025</fontSize>
 			</text>
 
@@ -81,24 +82,24 @@ based on:		"Carbon" by Eric Hettervik, "BaseVid" by Matt Kennedy
 			<size>1 1</size>
 		</image>
 
-			<image name="logo">
-				<origin>0.5 0.5</origin>
-				<pos>0.5 0.09</pos>
-				<maxSize>0.4 0.16</maxSize>
-			</image>
+		<image name="logo">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.09</pos>
+			<maxSize>0.4 0.16</maxSize>
+		</image>
 
-			<textlist name="gamelist">
-				<selectorColor>e0009e</selectorColor>
-				<selectedColor>00d8e0</selectedColor>
-				<primaryColor>00d8e0</primaryColor>
-				<secondaryColor>888888</secondaryColor>
-				<fontPath>./_art/fonts/VCR_OSD_MONO.ttf</fontPath>
-				<pos>0.29 0.21</pos>
-				<size>0.44 0.69</size>
-				<fontSize>0.035</fontSize>
-				<horizontalMargin>0.01</horizontalMargin>
-				<alignment>left</alignment>
-			</textlist>
+		<textlist name="gamelist">
+			<selectorColor>e0009e</selectorColor>
+			<selectedColor>00d8e0</selectedColor>
+			<primaryColor>00d8e0</primaryColor>
+			<secondaryColor>888888</secondaryColor>
+			<fontPath>./_art/fonts/VCR_OSD_MONO.ttf</fontPath>
+			<pos>0.29 0.21</pos>
+			<size>0.44 0.69</size>
+			<fontSize>0.035</fontSize>
+			<horizontalMargin>0.01</horizontalMargin>
+			<alignment>left</alignment>
+		</textlist>
 
 	</view>
 

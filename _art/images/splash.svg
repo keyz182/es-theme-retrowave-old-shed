@@ -197,8 +197,8 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="0.73064884"
-   inkscape:cx="173.13379"
-   inkscape:cy="428.38636"
+   inkscape:cx="854.71976"
+   inkscape:cy="264.14878"
    inkscape:window-width="2560"
    inkscape:window-height="1369"
    inkscape:window-x="2552"
@@ -281,7 +281,7 @@
    style="overflow:visible"
    width="1211"
    height="1469"
-   xlink:href="..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221D6.png"
+   xlink:href="../../../../../../../../Code/es-theme-retrowave-old-shed/_art/images/..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221D6.png"
    transform="translate(-38.471,-37.3811)"
    id="image11">
 			</image>
@@ -418,7 +418,7 @@
    style="overflow:visible"
    width="2407"
    height="768"
-   xlink:href="..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221D1.png"
+   xlink:href="../../../../../../../../Code/es-theme-retrowave-old-shed/_art/images/..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221D1.png"
    id="image36"
    transform="translate(-645.471,783.6189)">
 			</image>
@@ -441,7 +441,7 @@
    style="overflow:visible"
    width="1209"
    height="79"
-   xlink:href="..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221D0.png"
+   xlink:href="../../../../../../../../Code/es-theme-retrowave-old-shed/_art/images/..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221D0.png"
    transform="translate(-36.471,892.6189)"
    id="image42">
 		</image>
@@ -482,7 +482,8 @@
    r="277.70001" />
 	<g
    id="Sun"
-   transform="translate(25.882239,102.41947)">
+   transform="translate(25.882239,102.41947)"
+   style="display:none">
 		
 			<linearGradient
    id="path28693_00000019669471831698235130000003601518309699189437_"
@@ -595,7 +596,8 @@
    id="Garage"
    sodipodi:nodetypes="ccccccccccccc"
    d="m 866,963.1 -42,51.1 20.9,-0.2 v 85.3 h -279 v 122.3 h 516 V 1099.3 H 975.6 V 1014 l 20.9,0.2 -39.4,-51.1 z"
-   clip-path="url(#SVGID_00000055706824066553997310000010916542948366313395_)" />
+   clip-path="url(#SVGID_00000055706824066553997310000010916542948366313395_)"
+   style="display:none" />
 	</g>
 	
 		<linearGradient
@@ -630,7 +632,7 @@
    style="overflow:visible"
    width="640"
    height="640"
-   xlink:href="..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221DF.png"
+   xlink:href="../../../../../../../../Code/es-theme-retrowave-old-shed/_art/images/..%5C..%5C..%5C..%5COneDrive%5CDesktop%5CPiCade%20DXF%5C484221DF.png"
    transform="translate(509.529,614.6189)"
    id="image92">
 		</image>
